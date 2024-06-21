@@ -2,7 +2,7 @@
 
 Semester 1 : Joined IEEE Club logistics and electronics committee.
 
-semester 2: Active Member in IEEE Club logistics and electronics committee (Achieved member of the month in the comittee). Project: Made a counter using a switch and a..
+semester 2: Active Member in IEEE Club logistics and electronics committee (Achieved member of the month in the comittee). Project: Made a counter using a switch and nand gates.
 
 summer: Recieved from the club a Most Improved award. Recieved from the club a certificate of appreciation for my oustanding performance in the logistics committee.
 Volunteered with AIESEC on a program called "On The Map" in India to find hidden touristic sites, promoting tourism and changing the stereotypical mindsets.
